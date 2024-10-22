@@ -14,24 +14,24 @@ In this module, I learned the foundational concepts of HTML, which are essential
 
 ## 3. Links and Images
 - **Hyperlinks**: Created using the `<a>` tag. The `href` attribute defines the destination.
-- **Images:** Displayed using the <img> tag. The src attribute specifies the image URL.
+- **Images:** Displayed using the `<img>` tag. The src attribute specifies the image URL.
 
 ## 4. Lists
-- **Unordered Lists:** Created using <ul> with list items defined by <li>.
-- **Ordered Lists:** Similar to unordered lists but with numbers, using <ol>.
+- **Unordered Lists:** Created using `<ul>` with list items defined by `<li>`.
+- **Ordered Lists:** Similar to unordered lists but with numbers, using `<ol>`.
 
 ## 5. Forms
 - Forms are used to collect user input.
-- Basic Tags: <form>, <input>, <textarea>, <button>, and <select>.
+- Basic Tags: `<form>`, `<input>`, `<textarea>`, `<button>`, and `<select>`.
 - Example:
 
 ## 6. Tables
-- Tables are defined using <table>, with rows created using <tr>, and columns or cells using <td>.
-- Headers: Defined by <th>.
+- Tables are defined using `<table>`, with rows created using `<tr>`, and columns or cells using `<td>`.
+- Headers: Defined by `<th>`.
 
 ## 7. Semantic HTML
-- Elements like <header>, <footer>, <nav>, and <section> provide meaning to the structure of the document.
+- Elements like `<header>`, `<footer>`, `<nav>`, and `<section>` provide meaning to the structure of the document.
 
 ## 8. Media Embedding
-- Embedding external content such as videos using <video> and audio files using <audio>.
+- Embedding external content such as videos using `<video>` and audio files using `<audio>`.
 

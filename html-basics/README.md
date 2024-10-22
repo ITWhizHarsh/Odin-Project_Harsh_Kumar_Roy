@@ -35,3 +35,5 @@ In this module, I learned the foundational concepts of HTML, which are essential
 ## 8. Media Embedding
 - Embedding external content such as videos using `<video>` and audio files using `<audio>`.
 
+## 9. Project
+- odin-recipes git hub repo link : https://github.com/ITWhizHarsh/odin-recipes
